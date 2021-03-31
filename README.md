@@ -1,4 +1,4 @@
-### Hi there!
+### ![IMG_20200828_183314_789](C:\code\GitHub-Craighead\CraigHead\IMG_20200828_183314_789.jpg)
 
 - 🔭 I’m currently working on building one of the best workers' comp insurance companies in the world!
 - 🌱 I’m currently learning how to be a better mentor and listener.
