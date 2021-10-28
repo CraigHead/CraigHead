@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to hike long distances. I also love splitboarding. 
 
-
+<a href="https://stackexchange.com/users/348254"><img src="https://stackexchange.com/users/flair/348254.png" width="208" height="58" alt="profile for Mr. Young on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Mr. Young on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <!--
 **CraigHead/CraigHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
